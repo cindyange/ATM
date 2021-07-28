@@ -24,6 +24,10 @@ const btnDeposit = document.getElementById("btnDeposit");
 const userWithdraw = document.getElementById("userWithdraw");
 const btnWithdraw = document.getElementById("btnWithdraw");
 
+
+
+
+
 // Create our number formatter.
 const formatter = new Intl.NumberFormat('en-US', {
     style: 'currency',
